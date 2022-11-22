@@ -85,6 +85,10 @@ target/
 __pycache__/
 local_settings.py
 
+### apps ###
+*.pyc
+account/__pycache__/
+
 .env
 venv/
 db.sqlite3
